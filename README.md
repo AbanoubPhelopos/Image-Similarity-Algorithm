@@ -1,5 +1,8 @@
 # Image Similarity Algorithm
 
+![Run Example](Image-Similarity-Algorithm/ImageSimilarity/assets/run-example.png)
+
+
 ## Features
 - Load a folder of images (multiple formats supported: `.jpg`, `.jpeg`, `.png`, `.bmp`, `.gif`, `.tiff`, `.ico`).
 - Quickly compute histogram information (min, max, median, mean, std. dev, histogram array) for all images.
