@@ -1,4 +1,4 @@
-# Image Similarity Tool
+# Image Similarity Algorithm
 
 ## Features
 - Load a folder of images (multiple formats supported: `.jpg`, `.jpeg`, `.png`, `.bmp`, `.gif`, `.tiff`, `.ico`).
