@@ -9,7 +9,7 @@
 
 ## Technologies Used
 - **C# WinForms**
-- **.NET Framework** (or **.NET 5/6** if adapted)
+- **.NET Framework** 
 - `System.Windows.Forms.DataVisualization` for histogram charts
 - Basic image processing & statistics
 
