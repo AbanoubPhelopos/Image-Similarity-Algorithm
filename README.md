@@ -1,6 +1,6 @@
 # Image Similarity Algorithm
 
-![Run Example](Image-Similarity-Algorithm/ImageSimilarity/assets/run-example.png)
+![Run Example](ImageSimilarity/assets/run-example.png)
 
 
 ## Features
