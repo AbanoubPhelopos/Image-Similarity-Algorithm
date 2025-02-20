@@ -68,6 +68,6 @@ Additionally, we compute:
 ### Cosine Distance Similarity
 The cosine distance (or angle) is calculated between the query’s color histogram and the target’s color histogram:
 
-\[ \text{distance} = \arccos \left( \frac{Q \cdot T}{||Q|| \times ||T||} \right) \]
+[ \text{distance} = \arccos \left( \frac{Q \cdot T}{||Q|| \times ||T||} \right) ]
 
 where **Q, T** are 256-dimensional normalized vectors for each color channel (i.e., probabilities). We compute this angle for each channel, then average them (**R, G, B**) to get a final score. **Lower angles indicate higher similarity.**
