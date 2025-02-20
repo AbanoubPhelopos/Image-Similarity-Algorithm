@@ -16,7 +16,7 @@
 ## Getting Started
 ### Clone this repository:
 ```sh
-git clone https://github.com/YourAccount/ImageSimilarity.git
+git clone https://github.com/AbanoubPhelopos/Image-Similarity-Algorithm.git
 ```
 
 1. Open the solution in **Visual Studio** (or your preferred C# IDE).
